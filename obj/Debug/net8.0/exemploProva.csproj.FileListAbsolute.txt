@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\bin\Debug\net8.0\exemploProva.exe
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\bin\Debug\net8.0\exemploProva.deps.json
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\bin\Debug\net8.0\exemploProva.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\bin\Debug\net8.0\exemploProva.dll
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\bin\Debug\net8.0\exemploProva.pdb
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.dll
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\refint\exemploProva.dll
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.pdb
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\exemploProva.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Aulas\exemploProva\obj\Debug\net8.0\ref\exemploProva.dll
